@@ -239,16 +239,18 @@ Getting Support
 
 * https://bitshares.org
 
-* https://how.bitshares.works/ — BitShares documentation
+* https://docs.bitshares.eu — BitShares documentation
+
+* https://docs.bitshares.dev — BitShares developer documentation
+
+* https://bitsharestalk.org — BitShares forum
 
 * `Ledger Nano BitShares App Issue Tracker <https://github.com/bitshares/ledger-app-bitshares/issues>`_ — Submit bug reports here.
 
 * Various Telegram groups:
 
-  * `t.me/BitSharesDEX <https://t.me/BitSharesDEX>`_
+  * `t.me/BitSharesDEV <https://t.me/BitSharesDEV>`_
+
+  * `t.me/BitSharesDAC <https://t.me/BitSharesDAC>`_
 
   * `t.me/btsWalletHelp <https://t.me/btsWalletHelp>`_
-
-  * `t.me/btstalk <https://t.me/btstalk>`_
-
-
