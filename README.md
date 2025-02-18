@@ -2,11 +2,11 @@
 
 Welcome to the documentation portal for the BitShares Blockchain. The content on this page is managed by the BitShares community and is constantly improved.
 
-[BitShares  Documentation website](http://how.bitshares.works/en/master/)
+[BitShares Documentation website](http://docs.bitshares.eu/en/master/)
 
 -------------
 
-[BitShares Developers Documentation Portal website](http://dev.bitshares.works/en/master/)
+[BitShares Developers Documentation Portal website](http://docs.bitshares.dev/en/master/)
 
 
 ### Releases
