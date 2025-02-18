@@ -24,7 +24,7 @@ The purpose of this site is to provide in-depth documentation about the BitShare
 
 * **Development**
 
-  - `BitShares Developers Documentation Portal <http://dev.bitshares.works/en/master/>`_
+  - `BitShares Developers Documentation Portal <http://docs.bitshares.dev/en/master/>`_
   - `BitShares-Core Release <https://github.com/bitshares/bitshares-core/releases>`_
   - `BitShares-UI Release <https://github.com/bitshares/bitshares-ui/releases>`_
 
