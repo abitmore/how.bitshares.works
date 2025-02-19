@@ -38,6 +38,7 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.viewcode',
     'sphinxcontrib.httpdomain',
+    'sphinx_rtd_theme'
 ]
 
 # Do not warn about external images (status badges in README.rst)
@@ -139,7 +140,7 @@ html_theme_options = {
 
 # Add any paths that contain custom themes here, relative to this directory.
 # html_theme_path = ["../.."]
-html_theme_path = ['_themes']
+html_theme_path = []
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
